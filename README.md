@@ -8,3 +8,5 @@ The primary challenges addressed by our project involve uneven load distribution
 
 To confront these challenges, our system embraces a RAID-5 configuration, which utilizes checksums and distributed parity to enable data recovery from corruption and provide repair capabilities upon disk replacement or failure. The goal of the RAID-5 SAN project was to create a robust storage solution that ensures high reliability, efficient data distribution, and fault tolerance, thereby enhancing overall system performance and dependability in handling large volumes of data.
 
+## Process and Solution 
+
